@@ -30,7 +30,7 @@ if __name__ == '__main__':
         user_choice = input()
         if user_choice not in ['1','2','3','4']:
             print("Invalid option")
-            print("Enter a valid options about choicees")
+            print("Enter a valid options ***************************")
             continue
         else:
             user_choice = int(user_choice)
